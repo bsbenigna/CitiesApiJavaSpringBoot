@@ -1,6 +1,6 @@
 # Distance Calculator API
 
-API that calculates the distance between two Brazilian cities
+API that calculates the distance between two Brazilian cities.
 Developed in Java using Spring Boot.
 
 
