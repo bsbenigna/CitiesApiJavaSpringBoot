@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities.cities;
+package com.github.bsbenigna.distancecalculator.cities;
 
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;

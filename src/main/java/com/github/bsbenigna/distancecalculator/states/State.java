@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities.states;
+package com.github.bsbenigna.distancecalculator.states;
 
 import java.util.List;
 import javax.persistence.Basic;
@@ -10,7 +10,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-import com.github.bsbenigna.apicities.countries.Country;
+import com.github.bsbenigna.distancecalculator.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;

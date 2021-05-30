@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities.states;
+package com.github.bsbenigna.distancecalculator.states;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities.countries;
+package com.github.bsbenigna.distancecalculator.countries;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

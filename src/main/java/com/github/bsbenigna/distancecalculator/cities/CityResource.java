@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities.cities;
+package com.github.bsbenigna.distancecalculator.cities;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

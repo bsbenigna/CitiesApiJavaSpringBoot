@@ -1,8 +1,7 @@
-package com.github.bsbenigna.apicities.countries;
+package com.github.bsbenigna.distancecalculator.countries;
 
 
-import com.github.bsbenigna.apicities.countries.Country;
-import com.github.bsbenigna.apicities.countries.repository.CountryRepository;
+import com.github.bsbenigna.distancecalculator.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

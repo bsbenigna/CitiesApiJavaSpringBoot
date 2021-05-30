@@ -1,4 +1,4 @@
-package com.github.bsbenigna.apicities;
+package com.github.bsbenigna.distancecalculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

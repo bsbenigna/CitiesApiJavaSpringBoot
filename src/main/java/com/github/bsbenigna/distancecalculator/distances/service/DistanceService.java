@@ -1,10 +1,10 @@
-package com.github.bsbenigna.apicities.distances.service;
+package com.github.bsbenigna.distancecalculator.distances.service;
 
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.bsbenigna.apicities.cities.City;
-import com.github.bsbenigna.apicities.cities.CityRepository;
+import com.github.bsbenigna.distancecalculator.cities.City;
+import com.github.bsbenigna.distancecalculator.cities.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;
