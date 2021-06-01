@@ -1,7 +1,6 @@
 # Distance Calculator API
 
-API that calculates the distance between two Brazilian cities.
-Developed in Java using Spring Boot.
+REST API for calculating the distance between two Brazilian cities. Developed in Java using Spring Boot.
 
 
 
@@ -9,11 +8,9 @@ Developed in Java using Spring Boot.
 ## Requirements
 
 * Linux
-* Git
 * Java 8
 * Docker
 * IntelliJ Community
-* Heroku CLI
 
 ## DataBase
 
@@ -94,9 +91,6 @@ select earth_distance(
 * [JsonTypes](https://github.com/vladmihalcea/hibernate-types)
 * [UserType](https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/usertype/UserType.html)
 
-## Heroku
-
-* [DevCenter](https://devcenter.heroku.com/articles/getting-started-with-gradle-on-heroku)
 
 
 ### Reference Documentation
